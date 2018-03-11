@@ -1,0 +1,19 @@
+.img-header{
+	background-image: url("../img/iceberg.jpg");
+	background-size: cover;
+	height:60vh;
+}
+.header-text{
+	padding-top:20vh;
+
+}
+
+.col-md-12{
+	background-color:#C7E2FF;
+
+}
+
+.no-margin{
+	margin-bottom: 0;
+
+}
